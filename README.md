@@ -1,2 +1,92 @@
 # gptAppFirst
 First App with Help of ChatGPT
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ankit Ahir - Agritech Entrepreneur</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #007BFF;
+            color: white;
+            padding: 1em 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        .bio {
+            background: white;
+            padding: 20px;
+            margin-top: 20px;
+            border-radius: 8px;
+        }
+        .bio h2, .bio p {
+            margin: 0 0 1em;
+        }
+        .bio p {
+            line-height: 1.6;
+        }
+        .farmkal {
+            background: #007BFF;
+            color: white;
+            padding: 20px;
+            margin-top: 20px;
+            border-radius: 8px;
+        }
+        .farmkal h2, .farmkal p {
+            margin: 0 0 1em;
+        }
+        .farmkal p {
+            line-height: 1.6;
+        }
+        footer {
+            text-align: center;
+            padding: 1em 0;
+            background-color: #333;
+            color: white;
+            margin-top: 20px;
+        }
+        .social a {
+            color: #007BFF;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Ankit Ahir - Agritech Entrepreneur</h1>
+    </header>
+    <div class="container">
+        <section class="bio">
+            <h2>About Me</h2>
+            <p>Hello! I am Ankit Ahir, an Agritech Entrepreneur and a Java backend developer. My journey in the agricultural technology sector has been driven by a passion to improve the lives of farmers in India. With a background in software development, I aim to bring innovative tech solutions to the agricultural ecosystem.</p>
+        </section>
+        <section class="farmkal">
+            <h2>About Farmkal Agritech</h2>
+            <p>Farmkal Agritech is on a mission to equip farmers with advanced machines and technology that assist throughout their crop cycle. Our vision is to provide easy and advanced technologies to farmers to make their lives easier and better. We believe in empowering farmers by offering them the tools they need to increase productivity and efficiency in their farming practices.</p>
+        </section>
+    </div>
+    <footer>
+        <div class="container">
+            <p>Contact: ankit.ahir@example.com | Phone: +91-XXXXXXXXXX</p>
+            <div class="social">
+                <a href="https://www.linkedin.com/in/ankit-ahir" target="_blank">LinkedIn</a> | 
+                <a href="https://twitter.com/ankit_ahir" target="_blank">Twitter</a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
